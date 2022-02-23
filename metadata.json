@@ -1,0 +1,9 @@
+{
+  "name": "IBus Helper",
+  "description": "Provide a D-Bus interface for IBus.",
+  "uuid": "ibus-helper@yunhaozhaots@gmail.com",
+  "version": 1,
+  "shell-version": [
+    "41"
+  ]
+}
